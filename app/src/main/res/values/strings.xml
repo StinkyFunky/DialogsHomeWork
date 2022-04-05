@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lesson</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="msg_channel_name">CHANNEL_NAME</string>
+    <string name="msg_channel_desc">Channel description text</string>
+    <string name="msg_show_alert">Показать Alert</string>
+    <string name="msg_show_date">Показать DateDialog</string>
+    <string name="msg_show_time">Показать TimeDialog</string>
+    <string name="msg_show_custom">Показать мой CustomDialog</string>
+    <string name="msg_show_notification_second">Показать вторую нотификацию</string>
+    <string name="msg_second_activity">Мы втором Активити</string>
+    <string name="msg_open">Открыть</string>
+</resources>
